@@ -29,4 +29,4 @@ Sistem Pakar Pemilihan Program Studi adalah aplikasi berbasis web yang membantu 
 - PHP versi 7.4 atau lebih baru.
 - MySQL/MariaDB untuk basis data.
 
-![Tampilan Antarmuka](assets/images/interface.png)
+![Tampilan Antarmuka](image/profil.jpg)
