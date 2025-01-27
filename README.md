@@ -39,7 +39,15 @@ Sistem Pakar Pemilihan Program Studi adalah aplikasi berbasis web yang membantu 
 
 - Halaman Mulai Diagnosa
   ![beranda](interface/6.png)
+  
 ---
 
-- Halaman Diagnosa
-  ![beranda](interface/3.png)
+- Halaman Login
+  ![beranda](interface/5.png)
+
+---
+
+- Halaman Dashboard Admin
+  ![beranda](interface/7.png)
+
+---
