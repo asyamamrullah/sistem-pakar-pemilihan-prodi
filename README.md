@@ -25,7 +25,7 @@ Sistem Pakar Pemilihan Program Studi adalah aplikasi berbasis web yang membantu 
 ## Instalasi dan Penggunaan
 
 ### Prasyarat
-- Server web seperti **XAMPP**, **WAMP**, atau **LAMP**.
+- Server web seperti **XAMPP**, atau **Laragon**
 - PHP versi 7.4 atau lebih baru.
 - MySQL/MariaDB untuk basis data.
 
