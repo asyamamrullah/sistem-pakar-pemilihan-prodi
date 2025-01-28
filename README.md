@@ -31,6 +31,11 @@ Sistem Pakar Pemilihan Program Studi adalah aplikasi berbasis web yang membantu 
 
 ---
 
+## Login Sistem
+---
+- Username : admin
+- Password : admin
+
 ## Interface
 
 - Halaman Beranda
